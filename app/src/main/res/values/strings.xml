@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">User List</string>
+
+    <!-- User list -->
+    <string name="user_list_empty">There is no users now</string>
+
+    <!-- User details -->
+    <string name="user_name">%1s %2s</string>
+    <string name="user_gender_age">%1s, %2s years old\n%3s</string>
+    <string name="phone_title">Cell phone</string>
+    <string name="email_title">Email</string>
+    <string name="skype_title">Skype</string>
+    <string name="user_skype">%1s, %2s</string>
+
+</resources>
